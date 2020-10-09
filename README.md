@@ -13,9 +13,9 @@ ValentineKarimi
 
 To start using this project use the following commands:
 
-git clone https://github.com/ValentineKarimi/Moringa- CoreWeek-7IP.git
+git clone https://github.com/ValentineKarimi/The-titanic-dataset-.git
 
-cd Moringa-CoreWeek-7IP
+cd The-titanic-dataset-
 
 code .
 
